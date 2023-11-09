@@ -1,9 +1,9 @@
 _id: req_d95af0f4a715429388a59fd7609186fe
 type: Request
 parentId: wrk_42946bf321764352b084923fdf833696
-modified: 1699519073194
+modified: 1699519362028
 created: 1699519073194
-url: ""
+url: "{{ _.host }}/"
 name: New Request
 description: ""
 method: GET
